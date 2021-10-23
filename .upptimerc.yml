@@ -26,6 +26,7 @@ status-website:
   navbar:
     - title: Savvyy
       href: https://savvyy.ai
+  favicon: https://savvyy.ai/wp-content/uploads/2019/11/savvyy_icon.png
 
 i18n:
   footer: Contact us at [support@savvyy.ai](mailto:support@savvyy.ai)
