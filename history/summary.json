@@ -4,18 +4,20 @@
     "url": "http://dev.admin-web-simplii.savvyy.io/",
     "icon": "https://favicons.githubusercontent.com/dev.admin-web-simplii.savvyy.io",
     "slug": "simplii-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 455,
-    "timeWeek": 321,
-    "timeMonth": 317,
-    "timeYear": 305,
-    "dailyMinutesDown": {}
+    "time": 303,
+    "timeDay": 318,
+    "timeWeek": 307,
+    "timeMonth": 312,
+    "timeYear": 303,
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   },
   {
     "name": "Simplii Release",
