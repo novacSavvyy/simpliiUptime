@@ -4,19 +4,19 @@
     "url": "http://dev.admin-web-simplii.savvyy.io/",
     "icon": "https://favicons.githubusercontent.com/dev.admin-web-simplii.savvyy.io",
     "slug": "simplii-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 213,
-    "timeWeek": 309,
-    "timeMonth": 304,
-    "timeYear": 299,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 297,
+    "timeDay": 209,
+    "timeWeek": 299,
+    "timeMonth": 301,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2021-12-10": 0
+      "2021-12-10": 13
     }
   },
   {
