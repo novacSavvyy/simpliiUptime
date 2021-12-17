@@ -47,19 +47,19 @@
     "url": "http://alpha.admin-web-simplii.savvyy.io/",
     "icon": "https://favicons.githubusercontent.com/alpha.admin-web-simplii.savvyy.io",
     "slug": "simplii-alpha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 201,
-    "timeWeek": 331,
-    "timeMonth": 310,
-    "timeYear": 293,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.93%",
+    "time": 296,
+    "timeDay": 286,
+    "timeWeek": 345,
+    "timeMonth": 314,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2021-12-17": 0
+      "2021-12-17": 57
     }
   },
   {
