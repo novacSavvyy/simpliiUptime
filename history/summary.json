@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/dev.admin-web-simplii.savvyy.io",
     "slug": "simplii-dev",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.59%",
     "time": 330,
     "timeDay": 182,
     "timeWeek": 337,
@@ -90,17 +90,19 @@
     "url": "http://gamma.admin-web-simplii.savvyy.io/",
     "icon": "https://favicons.githubusercontent.com/gamma.admin-web-simplii.savvyy.io",
     "slug": "simplii-gamma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 193,
-    "timeWeek": 319,
-    "timeMonth": 353,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 314,
+    "timeDay": 187,
+    "timeWeek": 301,
+    "timeMonth": 348,
+    "timeYear": 314,
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   }
 ]
