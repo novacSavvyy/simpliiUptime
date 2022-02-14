@@ -69,19 +69,19 @@
     "url": "http://beta.admin-web-simplii.savvyy.io/",
     "icon": "https://favicons.githubusercontent.com/beta.admin-web-simplii.savvyy.io",
     "slug": "simplii-beta",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 334,
-    "timeDay": 181,
-    "timeWeek": 302,
-    "timeMonth": 350,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.77%",
+    "time": 343,
+    "timeDay": 587,
+    "timeWeek": 424,
+    "timeMonth": 381,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-02-14": 0,
+      "2022-02-14": 17,
       "2022-01-08": 230,
       "2022-01-07": 134
     }
@@ -92,18 +92,18 @@
     "icon": "https://favicons.githubusercontent.com/gamma.admin-web-simplii.savvyy.io",
     "slug": "simplii-gamma",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.93%",
     "time": 314,
     "timeDay": 187,
     "timeWeek": 301,
     "timeMonth": 348,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2022-02-14": 102
+      "2022-02-14": 119
     }
   }
 ]
